@@ -6,7 +6,7 @@ export async function onRequestGet({ request }) {
     headers: {
       ...headers,
       referer: 'https://www.vhimg.com',
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
+      'User-Agent': 'Mozilla/5.0 (Linux; Android 888; 22120RN86C Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/888.888.888.888 Mobile Safari/537.36'
     },
     body
   })
